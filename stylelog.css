@@ -1,0 +1,40 @@
+input[type=text],input[type=password]{
+                padding: 5px 5px;
+                box-sizing: border-box;
+                width: 40%;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid ;
+                }
+                .b1{
+                    background-color: #5c6b65;
+                    color: white;
+                    padding: 14px 20px;
+                    margin: 9px 0;
+                    border: none;
+                    cursor: pointer;
+                    width: 100%;
+                    
+                    }
+                    .psw {
+                     float: right;
+                    padding-top: 16px;
+                    }
+                    .psw1{
+                        float:left;
+                    }
+                    .modal {
+                        background-color:#dee6e6;
+                        overflow: auto;
+                    }
+                    .container {
+                    padding: 19px;
+                    }
+                    .l1{
+                        font-size: 70;
+                    }
+                    .t1{
+                        box-align: center;
+                    }
+
+                    

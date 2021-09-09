@@ -1,0 +1,74 @@
+body{
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    /* background:rgb(70, 69, 69); */  
+}
+
+
+.navBar{
+    background: rgb(70, 69, 69);
+    height: 40px;
+    width: 1265px;
+    position: fixed; 
+}
+
+.a1{
+    color:white;
+    text-decoration: none;
+}
+
+#img1{
+    height: 550px;
+    width: 100%;
+}
+
+.topnav-right{
+    float: right;
+
+}
+.a2:hover{
+    color: white;
+    background: black;
+}
+
+.a2{
+    color:white;
+    display: block;
+    padding: 7.9px 1px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.About{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+
+}
+
+.Heading{
+    font-size: 60px;
+    color: rgb(73, 72, 72);
+    font-family:  comic sans ms;
+    text-decoration: none;
+    text-align:center;
+}
+
+.user{
+    box-shadow: 0 2px 6px #000;
+}
+
+.img:hover{
+    width:400px;
+    height:300px;
+}
+
+.d1{
+    padding: 1em;
+}
+
+.d2{
+    padding: 2em;
+}
